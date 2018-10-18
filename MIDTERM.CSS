@@ -1,0 +1,89 @@
+/* WEB FUNDAMENTALS MIDTERM */
+
+#title {
+	border-bottom: solid 2px black;
+	font-size: 50px;
+}
+
+.contents {
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+
+	padding-left: 10px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+	margin: 20px;
+	margin-bottom: 10px;
+	margin-right: 1000px;
+	margin-left: 10px;
+
+	font-size: 15px;
+
+	background-color: lightgrey;
+}
+
+h1 {
+	font-size: 20px;
+	border-bottom: solid 1.5px black;
+}
+
+.list {
+	font-weight: lighter;
+}
+
+
+.column1 {
+	float: right;
+	background-color: lightgrey;
+	display: inline-block;
+
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+	padding-bottom: 2px;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 1000px;
+	margin-left: 10px;
+
+	font-size: 15px;
+		}
+
+#images a{
+    margin:1px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+ 		}
+
+
+.image1 {
+	float: right;
+}
+
+.image2 {
+	float: right;
+}
+
+.image3 {
+	float: right;
+}
+
+.image4 {
+	float:left;
+}
+
+.col2 {
+    margin: 20px;
+	columns: 2
+
